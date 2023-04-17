@@ -13,7 +13,7 @@ int main(){
 
                 cout<< ch;
             }
-            
+            // reverse
             for ( col =row ; col >= 1 ; col= col-1 )
             {
                 int ans = col ;
